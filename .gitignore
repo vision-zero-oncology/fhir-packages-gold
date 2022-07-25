@@ -1,0 +1,12 @@
+# OS generated files #
+###########################
+.DS_Store
+Thumbs.db
+
+
+# IDE folders and files
+###########################
+.vscode
+*.code-workspace
+.idea
+.venv
